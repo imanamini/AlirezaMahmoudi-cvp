@@ -1,7 +1,9 @@
 export default {
+  ssr: false,
+  target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'AlirezaMahmoudi',
+    title: 'Alireza Mahmoudi',
     htmlAttrs: {
       lang: 'en'
     },
