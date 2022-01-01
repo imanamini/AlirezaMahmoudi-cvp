@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img alt="" v-for="image in 28" :src="'/'+image+'.jpg'">
+    <img alt="" v-for="image in 29" :src="'/'+image+'.jpg'">
   </div>
 </template>
 
